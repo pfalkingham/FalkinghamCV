@@ -49,70 +49,90 @@ Liverpool, United Kingdom
 
 ### Major Research Funding (Total: >£3.2M)
 
-**2023-2028** | **UKRI Frontier Research Guarantee** (from ERC Consolidator Grant)  
-*Principal Investigator*  
-**"Mud to muscles: Dinosaur-bird locomotor evolution from fossil footprints"**  
-**Award Value:** £2,153,960
 
-**2022** | **Partnership for Advanced Computing in Europe (PRACE)**  
-*Principal Investigator*  
-**"Simulating footprint formation, from Humans to Dinosaurs"**  
-**Computing Resource:** 15,000,000 Core hours (~£200,000 resource in kind)
 
-**2020** | **PRACE Supercomputer Preparatory Grant**  
-*Principal Investigator*  
-**"Simulating hominid footprint formation"**  
-**Computing Resource:** ~£28,000 supercomputer time (PA5092)
+**2023-2028 | UKRI Frontier Research Guarantee** (from ERC Consolidator Grant)  
+*Principal Investigator* | **Award Value:** £2,153,960  
+"Mud to muscles: Dinosaur-bird locomotor evolution from fossil footprints"
 
-**2018-2022** | **National Science Foundation (NSF)**  
-*Co-Principal Investigator*  
-**"X-rays, animation, and human locomotion"**  
-**Award Value:** $340,052 | Co-PIs: K. Hatala (Chatham University), S. Gatesy (Brown University) | BCS1825403
+---
 
-**2018-2021** | **Leverhulme Trust**  
-*Co-Investigator*  
-**"Bones in motion: A new integrated experimental-computational approach to understanding the evolution of human locomotion"**  
-**Award Value:** £249,045 | PI: K.T. Bates (University of Liverpool) | RPG-2017-296
+**2022 | Partnership for Advanced Computing in Europe (PRACE)**  
+*Principal Investigator* | **Computing Resource:** 15,000,000 Core hours (~£200,000 resource in kind)  
+"Simulating footprint formation, from Humans to Dinosaurs"
 
-**2015-2018** | **National Science Foundation (NSF)**  
-*Co-Principal Investigator*  
-**"Footprint formation and interpreting fossil dinosaur tracks"**  
-**Award Value:** $284,118 | Co-PI: S.M. Gatesy (Brown University) | EAR1452119
+---
 
-**2015-2016** | **NERC**  
-*Co-Investigator*  
-**"Integrated software solution for the 3-dimensional capture and analysis of footwear evidence"**  
-**Award Value:** £100,000 | PI: M. Bennett (Bournemouth University)
+**2020 | PRACE Supercomputer Preparatory Grant**  
+*Principal Investigator* | **Computing Resource:** ~£28,000 supercomputer time (PA5092)  
+"Simulating hominid footprint formation"
 
-**2015-2017** | **EPSRC/NERC ARCHER Leadership Call**  
-*Principal Investigator*  
-**"Extrapolating ground reaction force from fossil dinosaur footprints"**  
-**Computing Resource:** 100,000kAU (£63,000) | LEAD17-n07
+---
 
-**2014-2015** | **XSEDE Supercomputing Resource (NSF)**  
-*Principal Investigator*  
-**"Using computer simulation to study dinosaur biomechanics from fossil footprints"**  
-**Computing Resource:** 474,755 CPU hours | TG-EAR140012
 
-**2013-2014** | **XSEDE Start-up Grant (NSF)**  
-*Principal Investigator*  
-**"Simulating bird and dinosaur footprints"**  
-**Computing Resource:** 200,000 CPU hours | TG-EAR130043
 
-**2012-2013** | **HECTOR Pump Priming (BBSRC/NERC)**  
-*Principal Investigator*  
-**"Understanding limb motion in birds and dinosaurs traversing deep substrates"**  
-**Computing Resource:** 300,000 CPU hours | Q261856
+**2018-2022 | National Science Foundation (NSF)**  
+*Co-Principal Investigator* | **Award Value:** $340,052  
+"X-rays, animation, and human locomotion"  
+Co-PIs: K. Hatala (Chatham University), S. Gatesy (Brown University) | BCS1825403
 
-**2012-2015** | **Marie Curie International Outgoing Fellowship**  
-*Principal Investigator*  
-**"Reconstructing dinosaur/bird locomotor evolution: 3-D track simulation and X-ray validation"**  
-**Award Value:** €239,221 | 274509
+---
 
-**2006-2010** | **NERC Studentship**  
-*Awardee*  
-**"Computer simulation of dinosaur tracks"**  
-**Award Value:** Stipend+fees | NERC/S/A/2006/14033
+**2018-2021 | Leverhulme Trust**  
+*Co-Investigator* | **Award Value:** £249,045  
+"Bones in motion: A new integrated experimental-computational approach to understanding the evolution of human locomotion"  
+PI: K.T. Bates (University of Liverpool) | RPG-2017-296
+
+---
+
+**2015-2018 | National Science Foundation (NSF)**  
+*Co-Principal Investigator* | **Award Value:** $284,118  
+"Footprint formation and interpreting fossil dinosaur tracks"  
+Co-PI: S.M. Gatesy (Brown University) | EAR1452119
+
+---
+
+**2015-2016 | NERC**  
+*Co-Investigator* | **Award Value:** £100,000  
+"Integrated software solution for the 3-dimensional capture and analysis of footwear evidence"  
+PI: M. Bennett (Bournemouth University)
+
+---
+
+
+**2015-2017 | EPSRC/NERC ARCHER Leadership Call**  
+*Principal Investigator* | **Computing Resource:** 100,000kAU (£63,000) | LEAD17-n07  
+"Extrapolating ground reaction force from fossil dinosaur footprints"
+
+---
+
+**2014-2015 | XSEDE Supercomputing Resource (NSF)**  
+*Principal Investigator* | **Computing Resource:** 474,755 CPU hours | TG-EAR140012  
+"Using computer simulation to study dinosaur biomechanics from fossil footprints"
+
+---
+
+**2013-2014 | XSEDE Start-up Grant (NSF)**  
+*Principal Investigator* | **Computing Resource:** 200,000 CPU hours | TG-EAR130043  
+"Simulating bird and dinosaur footprints"
+
+---
+
+**2012-2013 | HECTOR Pump Priming (BBSRC/NERC)**  
+*Principal Investigator* | **Computing Resource:** 300,000 CPU hours | Q261856  
+"Understanding limb motion in birds and dinosaurs traversing deep substrates"
+
+---
+
+**2012-2015 | Marie Curie International Outgoing Fellowship**  
+*Principal Investigator* | **Award Value:** €239,221 | 274509  
+"Reconstructing dinosaur/bird locomotor evolution: 3-D track simulation and X-ray validation"
+
+---
+
+**2006-2010 | NERC Studentship**  
+*Awardee* | **Award Value:** Stipend+fees | NERC/S/A/2006/14033  
+"Computer simulation of dinosaur tracks"
 
 ---
 
@@ -438,21 +458,6 @@ Liverpool, United Kingdom
 
 ---
 
-## Scientific Consultancy & Media
-
-### Documentary & Television Consultancy
-
-- **2023 – 2025** — Consultant for unnamed Netflix documentary
-- **2020 – 2022** — Consultant for Netflix documentary *Life on Our Planet*  
-  [View on Netflix](https://www.netflix.com/gb/title/80213846)
-- **2017** — Consultant for BBC documentary *The Real T. rex*  
-  [BBC Programme Page](https://www.bbc.co.uk/programmes/b09ksl99)
-- **2012** — Scientific consultant for the Palaeontology A16 project, Switzerland (highway construction through dinosaur tracksites)
-- **2010** — Consultant for BBC/National Geographic documentary *Dino Stampede*  
-  [BBC](https://www.bbc.co.uk/programmes/b0111627) | [Smithsonian Channel](https://www.smithsonianchannel.com/shows/dino-stampede/0/138526)
-
----
-
 ## Teaching Experience
 
 **Recognized Fellow of the Higher Education Academy**
@@ -527,19 +532,24 @@ Supervisor of undergraduate and taught masters research projects covering: finit
 
 ## Media Coverage & Outreach
 
-- **2026** — Consultant for *The Dinosaurs* (Netflix)
-- **2025** — Presented/Interviewed on BBC Breakfast, BBC Radio (Scotland, 5, and local stations), New Zealand TV, and RTL (Holland) regarding dinosaur track discoveries in Oxfordshire. Also featured on Have I Got News For You (BBC).
+### Documentary & Television Consultancy
+
+- **2023 – 2025** — Consultant for Netflix documentary *The Dinosaurs* (release March 6th 2026)
 - **2023** — Consultant for *Mission Jurassic* (BBC)
-- **2023** — Consultant for *Life on Our Planet* (Netflix)
+- **2020 – 2022** — Consultant for Netflix documentary *Life on Our Planet* [View on Netflix](https://www.netflix.com/gb/title/80213846)
+- **2017** — Consultant for BBC documentary *The Real T. rex*  [BBC Programme Page](https://www.bbc.co.uk/programmes/b09ksl99)
+- **2012** — Scientific consultant for the Palaeontology A16 project, Switzerland (highway construction through dinosaur tracksites)
+- **2010** — Consultant for BBC/National Geographic documentary *Dino Stampede* [BBC](https://www.bbc.co.uk/programmes/b0111627) | [Smithsonian Channel](https://www.smithsonianchannel.com/shows/dino-stampede/0/138526)
+
+### Media Appearances
+- **2025** — Presented/Interviewed on BBC Breakfast, BBC Radio (Scotland, 5, and local stations), New Zealand TV, and RTL (Holland) regarding dinosaur track discoveries in Oxfordshire. Also featured on Have I Got News For You (BBC).
 - **2023** — Featured in *Dinosaurs – with Stephen Fry* (Channel 5)
 - **2022** — Featured on *Quirks and Quarks* radio show (CBC, Canada)
 - **2021** — Featured in *World of Wonder – The Natural History Museum* (Channel 5)
 - **2019** — Featured in Audible documentary *A Grown-up Guide to Dinosaurs*
 - **2011** — Featured in BBC documentary *Dino Stampede*
 
-### The Conversation Articles
-
-**Total readership: 74,000+**
+### The Conversation Articles *Total readership: 74,000+*
 
 - "Footprint fossils suggest lizards have been running on two feet for 110m years" [Link](https://theconversation.com/footprint-fossils-suggest-lizards-have-been-running-on-two-feet-for-110m-years-91865)
 - "'Walking' fish help scientists to understand how we left the ocean" [Link](https://theconversation.com/walking-fish-help-scientists-to-understand-how-we-left-the-ocean-91411)
