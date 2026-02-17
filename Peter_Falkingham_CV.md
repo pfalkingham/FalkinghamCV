@@ -1,15 +1,20 @@
 # Prof. Peter L. Falkingham
-## Professor in Palaeobiology
+**Professor in Palaeobiology**
 
 ---
 
 > *"Reconstructing ancient life through digital innovation and computational paleobiology"*
 
-📧 **Contact Information**  
-🏛️ Liverpool John Moores University, School of Biological and Environmental Sciences  
-📍 Liverpool, United Kingdom  
-📞 +44 (0)151 231 2140  
-✉️ [p.l.falkingham@ljmu.ac.uk](mailto:p.l.falkingham@ljmu.ac.uk)      
+### Contact Information
+
+**Liverpool John Moores University**  
+School of Biological and Environmental Sciences  
+Liverpool, United Kingdom  
+
+**Phone:** +44 (0)151 231 2140  
+**Email:** [p.l.falkingham@ljmu.ac.uk](mailto:p.l.falkingham@ljmu.ac.uk)    
+**ORCID:** https://orcid.org/0000-0003-1856-8377      
+**Website:** https://peterfalkingham.com 
 
 ---
 
@@ -26,10 +31,12 @@
 ## Professional Appointments
 
 ### Current Position
+
 **2023 – Present** | **Professor in Palaeobiology**  
 *Liverpool John Moores University*
 
 ### Career Progression
+
 - **2020 – 2023** | Reader in Vertebrate Biology | *Liverpool John Moores University*
 - **2015 – 2020** | Lecturer/Senior Lecturer in Vertebrate Biology | *Liverpool John Moores University*
 - **2012 – 2015** | Marie Curie Research Fellow | *Royal Veterinary College & Brown University*
@@ -42,86 +49,78 @@
 
 ### Major Research Funding (Total: >£3.2M)
 
-####  Current & Recent Major Awards
-
 **2023-2028** | **UKRI Frontier Research Guarantee** (from ERC Consolidator Grant)  
 *Principal Investigator*  
 **"Mud to muscles: Dinosaur-bird locomotor evolution from fossil footprints"**  
-💰 **£2,153,960**
+**Award Value:** £2,153,960
 
 **2022** | **Partnership for Advanced Computing in Europe (PRACE)**  
 *Principal Investigator*  
 **"Simulating footprint formation, from Humans to Dinosaurs"**  
-💻 **15,000,000 Core hours (~£200,000 'resource in kind')**
+**Computing Resource:** 15,000,000 Core hours (~£200,000 resource in kind)
 
 **2020** | **PRACE Supercomputer Preparatory Grant**  
 *Principal Investigator*  
 **"Simulating hominid footprint formation"**  
-💻 **~£28,000 supercomputer time (PA5092)**
-
-#### 🌍 International Collaborations
+**Computing Resource:** ~£28,000 supercomputer time (PA5092)
 
 **2018-2022** | **National Science Foundation (NSF)**  
 *Co-Principal Investigator*  
 **"X-rays, animation, and human locomotion"**  
-💰 **$340,052** | Co-PIs: K. Hatala (Chatham University), S. Gatesy (Brown University) | BCS1825403
+**Award Value:** $340,052 | Co-PIs: K. Hatala (Chatham University), S. Gatesy (Brown University) | BCS1825403
 
 **2018-2021** | **Leverhulme Trust**  
 *Co-Investigator*  
 **"Bones in motion: A new integrated experimental-computational approach to understanding the evolution of human locomotion"**  
-💰 **£249,045** | PI: K.T. Bates (University of Liverpool) | RPG-2017-296
+**Award Value:** £249,045 | PI: K.T. Bates (University of Liverpool) | RPG-2017-296
 
 **2015-2018** | **National Science Foundation (NSF)**  
 *Co-Principal Investigator*  
 **"Footprint formation and interpreting fossil dinosaur tracks"**  
-💰 **$284,118** | Co-PI: S.M. Gatesy (Brown University) | EAR1452119
+**Award Value:** $284,118 | Co-PI: S.M. Gatesy (Brown University) | EAR1452119
 
 **2015-2016** | **NERC**  
 *Co-Investigator*  
 **"Integrated software solution for the 3-dimensional capture and analysis of footwear evidence"**  
-💰 **£100,000** | PI: M. Bennett (Bournemouth University)
-
-#### 🖥️ High-Performance Computing Awards
+**Award Value:** £100,000 | PI: M. Bennett (Bournemouth University)
 
 **2015-2017** | **EPSRC/NERC ARCHER Leadership Call**  
 *Principal Investigator*  
 **"Extrapolating ground reaction force from fossil dinosaur footprints"**  
-💻 **100,000kAU (£63,000)** | LEAD17-n07
+**Computing Resource:** 100,000kAU (£63,000) | LEAD17-n07
 
 **2014-2015** | **XSEDE Supercomputing Resource (NSF)**  
 *Principal Investigator*  
 **"Using computer simulation to study dinosaur biomechanics from fossil footprints"**  
-💻 **474,755 CPU hours** | TG-EAR140012
+**Computing Resource:** 474,755 CPU hours | TG-EAR140012
 
 **2013-2014** | **XSEDE Start-up Grant (NSF)**  
 *Principal Investigator*  
 **"Simulating bird and dinosaur footprints"**  
-💻 **200,000 CPU hours** | TG-EAR130043
+**Computing Resource:** 200,000 CPU hours | TG-EAR130043
 
 **2012-2013** | **HECTOR Pump Priming (BBSRC/NERC)**  
 *Principal Investigator*  
 **"Understanding limb motion in birds and dinosaurs traversing deep substrates"**  
-💻 **300,000 CPU hours** | Q261856
-
-#### 🇪🇺 Early Career Excellence
+**Computing Resource:** 300,000 CPU hours | Q261856
 
 **2012-2015** | **Marie Curie International Outgoing Fellowship**  
 *Principal Investigator*  
 **"Reconstructing dinosaur/bird locomotor evolution: 3-D track simulation and X-ray validation"**  
-💰 **€239,221** | 274509
+**Award Value:** €239,221 | 274509
 
 **2006-2010** | **NERC Studentship**  
 *Awardee*  
 **"Computer simulation of dinosaur tracks"**  
-💰 **Stipend+fees** | NERC/S/A/2006/14033
+**Award Value:** Stipend+fees | NERC/S/A/2006/14033
 
 ---
 
-##  Publications
+## Publications
 
-> **[Google Scholar Profile](https://scholar.google.com/citations?user=JLrMX9cAAAAJ&hl=en)** | **80+ peer-reviewed publications**
+**[Google Scholar Profile](https://scholar.google.com/citations?user=JLrMX9cAAAAJ&hl=en)** | **80+ peer-reviewed publications**
 
-⭐ = *Highly Cited or otherwise important paper*
+*Key publications marked with* ⭐
 
 ### **2026**
  - **Falkingham, P.L.** and Gatesy, S.M. 2026. Formation, preservation, and interpretation of dinosaur tracks. *Palaeontology*, 69(1), e70040.
@@ -270,7 +269,9 @@
 
 ## Conference Presentations
 
-*Complete list (☆ = invited/symposium, ★ = keynote or plenary)*
+**Complete List**  
+*Keynote/Plenary presentations marked with* ★  
+*Invited/Symposium presentations marked with* ☆
 
 ### **2026**
 - Farlow, J.O., Dattilo, B.F., Lin, D., Fredrick, G., Mann, E., Whitcraft, J., **Falkingham, P.L.,** Hyatt, J.A., Jacene, J., Martin, A.J., and O'Brien, M. Dinosaurs vs. Crustaceans: Preservation of Fossil Footprints from Joanna’s Tracksite (Lower Cretaceous Glen Rose Formation, Texas). Indiana Acadamy of Science Annual Meeting, Indiana, USA.
@@ -411,53 +412,67 @@
 
 ## Software
 
-- Budka, M. Bakirov, R., Deng, S., **Falkingham, P.L.**, Reynolds, S.C., Bennett, M.R. (2016). DigTrace Academic [Computer Software]. Bournemouth University. Version 1.0.
-- Budka, M. Bakirov, R., Deng, S., **Falkingham, P.L.**, Reynolds, S.C., Bennett, M.R. (2016). DigTrace Pro [Computer Software]. Bournemouth University. Version 1.0.
+- Github: https://github.com/pfalkingham
+- Blender addons: https://extensions.blender.org/author/3247/ 
+- Budka, M. Bakirov, R., Deng, S., **Falkingham, P.L.**, Reynolds, S.C., Bennett, M.R. (2016). DigTrace [Computer Software]. Bournemouth University. Version 1.0.
 
 ---
 
 ## Service to Profession
 
-### **Editorial Roles**
-- **Scientific Editor**: Journal of Palaeontological Techniques
-- **Commissioning Editor**: Palaeontology[Online]
-- **Academic Editor**: PLOS Computational Biology
+### Editorial Roles
 
-### **Peer Review**
+- **Scientific Editor** — Journal of Palaeontological Techniques
+- **Commissioning Editor** — Palaeontology[Online]
+- **Academic Editor** — PLOS Computational Biology
+
+### Peer Review
+
 - **NERC Peer Review College Member** (2026 – present)
-- **Reviewer**: Over 30 journals, including Proceedings B, Biology Letters, Interface, Scientific Reports, PLoS One, Nature, Current Biology, etc.
+- **Peer Reviewer** — Over 30 journals, including *Proceedings of the Royal Society B*, *Biology Letters*, *Interface*, *Scientific Reports*, *PLoS One*, *Nature*, *Current Biology*, and others
 
-### **Conference Organization**
-- **Host**: Symposium for Vertebrate Palaeontology and Comparative Anatomy 2016 (SVPCA) and the Symposium of Palaeontological Preparation and Conservation (SPPC) 2016
+### Conference Organization
+
+- **Host & Organizer** — Symposium for Vertebrate Palaeontology and Comparative Anatomy (SVPCA) 2016  
+- **Host & Organizer** — Symposium of Palaeontological Preparation and Conservation (SPPC) 2016
 
 ---
 
-## Scientific Consultancy and media
+## Scientific Consultancy & Media
 
-- **2023-2025**: Consultant for unnamed Netflix documentary.
-- **2020-2022**: Consultant for Netflix documentary Life on Our Planet. (https://www.netflix.com/gb/title/80213846)
-- **2017**: Consultant for BBC documentary "The real T. rex" (https://www.bbc.co.uk/programmes/b09ksl99)
-- **2012**: Scientific consultant for the Palaeontology A16 project, Switzerland, where a highway was being constructed through important dinosaur tracksites.
-- **2010**: Consultant for BBC/National Geographic documentary "Dino Stampede" (https://www.bbc.co.uk/programmes/b0111627, https://www.smithsonianchannel.com/shows/dino-stampede/0/138526)
+### Documentary & Television Consultancy
+
+- **2023 – 2025** — Consultant for unnamed Netflix documentary
+- **2020 – 2022** — Consultant for Netflix documentary *Life on Our Planet*  
+  [View on Netflix](https://www.netflix.com/gb/title/80213846)
+- **2017** — Consultant for BBC documentary *The Real T. rex*  
+  [BBC Programme Page](https://www.bbc.co.uk/programmes/b09ksl99)
+- **2012** — Scientific consultant for the Palaeontology A16 project, Switzerland (highway construction through dinosaur tracksites)
+- **2010** — Consultant for BBC/National Geographic documentary *Dino Stampede*  
+  [BBC](https://www.bbc.co.uk/programmes/b0111627) | [Smithsonian Channel](https://www.smithsonianchannel.com/shows/dino-stampede/0/138526)
 
 ---
 
 ## Teaching Experience
 
-*Recognized Fellow of the Higher Education Academy*
+**Recognized Fellow of the Higher Education Academy**
 
-### **Current Teaching Responsibilities**
-- **Lecturer**: Vertebrate Biology; Animal Diversity and Evolution; Functional Morphology; Animals in Motion. (Liverpool John Moores University)
-- **Module Leader**: Animal Diversity and Evolution, Animals in Motion.
+### Current Teaching Responsibilities
 
-### **Fieldwork Teaching**
-- **Within the U.K.**: Peak District, Lake District
-- **Internationally**: Tenerife, Spain, Portugal, Utah [USA]
+**Liverpool John Moores University**
+- **Lecturer** — Vertebrate Biology; Animal Diversity and Evolution; Functional Morphology; Animals in Motion
+- **Module Leader** — Animal Diversity and Evolution; Animals in Motion
 
-### **Undergraduate/Masters Supervision**
-Supervisor of undergraduate and taught masters research projects covering: finite element analysis of tendons, bird locomotion, foot functional morphology, Sea Lion biomechanics, etc.
+### Fieldwork Teaching
 
-### **PhD/MPhil Supervision**
+- **UK Locations** — Peak District, Lake District
+- **International Locations** — Tenerife, Spain, Portugal, Utah (USA)
+
+### Undergraduate & Masters Supervision
+
+Supervisor of undergraduate and taught masters research projects covering: finite element analysis of tendons, bird locomotion, foot functional morphology, Sea Lion biomechanics, and related topics.
+
+### PhD/MPhil Supervision
 - **2025 – present** [Director of studies, PhD] Rebecca Lowes, Liverpool John Moores. Thesis title: The evolution of the avian foot.
 - **2025 – present** [Co-supervisor, PhD] Emily Aitkin, University of Liverpool. Thesis title: Tetrapod Neck Evolution: How Salamanders Use the Spine During Feeding.
 - **2021 – 2025** [Co-supervisor, PhD] Rab Smyth, Leicester University. Thesis title: 'Pteraichnites' and their implications for pterosaur terrestrial palaeoecology and evolution.
@@ -469,88 +484,102 @@ Supervisor of undergraduate and taught masters research projects covering: finit
 - **2015-2019** [Co-supervisor, PhD] Ryan Marek, University of Liverpool. Thesis title: The Evolution of Feeding Ecology in Birds.
 - **2016-2017** [Co-Supervisor, MPhil] Jordan Peters, Royal Veterinary College. Thesis title: Reconstruction of Paraceratherium.
 
-### **Post-docs and Technicians**
-- **2023 – present** Tash Prescott, Research assistant, funded via Mud to Muscles UKRI grant to PLF
-- **2023 – present** Dr Oliver Demuth, post-doc funded via Mud to Muscles UKRI grant to PLF
-- **2023 – present** Dr Ben Griffin, post-doc funded via Mud to Muscles UKRI grant to PLF
-- **2020-2023** Dr Jens Lallensack, funded by the German Research Foundation (DFG)
-- **2016-2018** Dr Ikuko Tanaka, funded by a Japanese Post-doctoral fellowship.
+### Postdoctoral Researchers & Research Staff
 
-### **Teaching Recognition**
-- **2022** Awarded Teaching and Learning Excellence Award, Digital Education (£1000 prize)
-- **2021** Commendation for Excellence in Digital Teaching.
-- **2017** nominated and shortlisted for: Amazing Personal Tutor award, Amazing Academic Supervisor award, and Amazing Teacher award.
+- **2024 - present** - Dr Andreas Jannel, Postdoctoral Researcher (Funded via Mud to Muscles UKRI grant)
+- **2023 – present** — Tash Prescott, Research Assistant (Funded via Mud to Muscles UKRI grant)
+- **2023 – present** — Dr Ben Griffin, Postdoctoral Researcher (Funded via Mud to Muscles UKRI grant)
+- **2023 – 2024** — Dr Oliver Demuth, Postdoctoral Researcher (Funded via Mud to Muscles UKRI grant)
+- **2020 – 2023** — Dr Jens Lallensack, Postdoctoral Researcher (Funded by German Research Foundation, DFG)
+- **2016 – 2018** — Dr Ikuko Tanaka, Postdoctoral Researcher (Funded by Japanese Post-doctoral Fellowship)
+
+### Teaching Recognition
+
+- **2022** — Teaching and Learning Excellence Award, Digital Education (£1,000 prize)
+- **2021** — Commendation for Excellence in Digital Teaching
+- **2017** — Shortlisted for Amazing Personal Tutor Award, Amazing Academic Supervisor Award, and Amazing Teacher Award
 
 ---
 
 ## Professional Memberships
 
-Society for Experimental Biology; Society for Integrative and Comparative Biology; Society of Vertebrate Paleontology; Palaeontological Association; The Ichnological Association; The Palaeontographical Society
+- Society for Experimental Biology
+- Society for Integrative and Comparative Biology
+- Society of Vertebrate Paleontology
+- Palaeontological Association
+- The Ichnological Association
+- The Palaeontographical Society
 
 ---
 
 ## Invitations, Awards, Honours, and Other Responsibilities
 
-- **2024**: Invited to participate in AI x Safety panels and discussions by The Royal Society. (https://royalsociety.org/-/media/policy/projects/science-in-the-age-of-ai/science-in-the-age-of-ai-report.pdf
-- **2014**: Best talk, Society of Experimental Biology annual meeting.
-- **Invited Seminar speaker for**:
-    -  29/10/25 Imperial College London Bio-engineering Department Seminar Series
-    - (older) Bangor University; Imperial College London; Plymouth University; University of Bristol; Portsmouth University; University of Liverpool; Allen Society (York); Manchester Museum; Manchester Geological Association; Society for Manchester's Environmental and Geology Students.
+- **2024** — Invited participant in AI x Safety panels and discussions, The Royal Society  [(Report)](https://royalsociety.org/-/media/policy/projects/science-in-the-age-of-ai/science-in-the-age-of-ai-report.pdf)
+- **2014** — Best Talk Award, Society of Experimental Biology Annual Meeting
+
+### Invited Seminar Speaker
+
+- **2025** — Imperial College London, Bioengineering Department Seminar Series (29 October 2025)
+- **Previous Institutions** — Bangor University; Imperial College London; Plymouth University; University of Bristol; Portsmouth University; University of Liverpool; Allen Society (York); Manchester Museum; Manchester Geological Association; Society for Manchester's Environmental and Geology Students
 
 
 ---
 
-## Media Coverage/Outreach
+## Media Coverage & Outreach
 
-### **Television & Documentary**
-- Presented/Interviewed on BBC Breakfast, BBC Radio (Scotland, 5, and local radio stations), New Zealand TV, and RTL (Holland) regarding dinosaur track discoveries in Oxfordshire(2025)
-- Consultant for 'Life on Our Planet 2' documentary (Netflix) (TBD)
-- Consultant for 'Mission Jurassic' (BBC) (to be aired 2023)
-- Consultant for 'Life on Our Planet' documentary (Netflix) (2023)
-- Featured in 'Dinosaurs – with Stephen Fry' (Channel 5) (2023)
-- Featured in Channel 5 documentary "World of Wonder – The natural history museum" (2021)
-- Featured in Audible documentary "A Grown-up guide to Dinosaurs" (2019)
-- Featured in BBC documentary "Dino Stampede" (2011)
+- **2026** — Consultant for *The Dinosaurs* (Netflix)
+- **2025** — Presented/Interviewed on BBC Breakfast, BBC Radio (Scotland, 5, and local stations), New Zealand TV, and RTL (Holland) regarding dinosaur track discoveries in Oxfordshire. Also featured on Have I Got News For You (BBC).
+- **2023** — Consultant for *Mission Jurassic* (BBC)
+- **2023** — Consultant for *Life on Our Planet* (Netflix)
+- **2023** — Featured in *Dinosaurs – with Stephen Fry* (Channel 5)
+- **2022** — Featured on *Quirks and Quarks* radio show (CBC, Canada)
+- **2021** — Featured in *World of Wonder – The Natural History Museum* (Channel 5)
+- **2019** — Featured in Audible documentary *A Grown-up Guide to Dinosaurs*
+- **2011** — Featured in BBC documentary *Dino Stampede*
 
-### **Radio & Online**
-- Featured on 'Quirks and Quarks' radio show (Summer 2022)
-- Contributor to www.askabiologist.org.uk
+### The Conversation Articles
 
-### **The Conversation Articles (Total 74,000 readers to date)**
-- "Footprint fossils suggest lizards have been running on two feet for 110m years"
-- 'Walking' fish help scientists to understand how we left the ocean"
-- 'We discovered how the largest dinosaurs walked – and it was more like hippos than elephants'
+**Total readership: 74,000+**
 
-### **Digital Presence**
-- Personal website: http://peterfalkingham.com with >100,000 views per year.
+- "Footprint fossils suggest lizards have been running on two feet for 110m years" [Link](https://theconversation.com/footprint-fossils-suggest-lizards-have-been-running-on-two-feet-for-110m-years-91865)
+- "'Walking' fish help scientists to understand how we left the ocean" [Link](https://theconversation.com/walking-fish-help-scientists-to-understand-how-we-left-the-ocean-91411)
+- "We discovered how the largest dinosaurs walked – and it was more like hippos than elephants" [Link](https://theconversation.com/we-discovered-how-the-largest-dinosaurs-walked-and-it-was-more-like-hippos-than-elephants-178194)
+
+### Digital Presence
+
+- **Personal Website:** [peterfalkingham.com](http://peterfalkingham.com) — 100,000+ views per year
 
 ---
 
 ## Research Expertise
 
 ### Core Research Areas
-- **Computational Paleobiology** | Digital reconstruction of extinct animal locomotion
-- **Ichnology** | Fossil footprint formation and interpretation
-- **Biomechanics** | Vertebrate locomotion across evolutionary timescales
-- **3D Visualization** | Advanced imaging and simulation techniques
-- **Machine Learning** | AI applications in paleontological research
+
+- **Computational Paleobiology** — Digital reconstruction of extinct animal locomotion
+- **Ichnology** — Fossil footprint formation and interpretation
+- **Biomechanics** — Vertebrate locomotion across evolutionary timescales
+- **3D Visualization** — Advanced imaging and simulation techniques
+- **Machine Learning** — AI applications in paleontological research
 
 ### Technical Skills
-- **Computational Methods** | Discrete Element Modeling, Finite Element Analysis, Fluid Dynamics
-- **3D Technologies** | Photogrammetry, CT imaging, XROMM
-- **Programming** | Scientific computing and simulation software
-- **Supercomputing** | Large-scale parallel processing applications
+
+- **Computational Methods** — Discrete Element Modeling, Finite Element Analysis, Fluid Dynamics
+- **3D Technologies** — Photogrammetry, CT imaging, XROMM
+- **Programming** — Scientific computing and simulation software
+- **Supercomputing** — Large-scale parallel processing applications
 
 ### Collaborative Networks
-- **International Partnerships** | USA (Brown University), Europe (Multiple institutions)
-- **Interdisciplinary Research** | Biology, Geology, Computer Science, Engineering
-- **Open Science Advocate** | Digital morphology and data sharing initiatives
+
+- **International Partnerships** — USA (Brown University), Europe (multiple institutions)
+- **Interdisciplinary Research** — Biology, Geology, Computer Science, Engineering
+- **Open Science Advocate** — Digital morphology and data sharing initiatives
 
 ---
 
 ## Research Impact
 
 ### Key Achievements
+
 - **Pioneered** computational approaches to understanding fossil footprint formation
 - **Developed** novel methods for reconstructing ancient animal locomotion
 - **Advanced** understanding of dinosaur-bird evolutionary relationships
@@ -559,7 +588,7 @@ Society for Experimental Biology; Society for Integrative and Comparative Biolog
 
 ---
 
-*Last updated: October 2025*
+**Last updated:** February 2026
 
 ---
 
