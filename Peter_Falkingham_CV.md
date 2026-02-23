@@ -580,9 +580,7 @@ Supervisor of undergraduate and taught masters research projects covering: finit
 
 ### Collaborative Networks
 
-- **International Partnerships** — USA (Brown University), Europe (multiple institutions)
-- **Interdisciplinary Research** — Biology, Geology, Computer Science, Engineering
-- **Open Science Advocate** — Digital morphology and data sharing initiatives
+- ** EXN: European XROMM Network
 
 ---
 
@@ -601,4 +599,5 @@ Supervisor of undergraduate and taught masters research projects covering: finit
 **Last updated:** February 2026
 
 ---
+
 
