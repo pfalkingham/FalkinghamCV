@@ -580,7 +580,8 @@ Supervisor of undergraduate and taught masters research projects covering: finit
 
 ### Collaborative Networks
 
-- ** EXN: European XROMM Network
+- **EXN: European XROMM Network**
+- **XROMM USERS GROUP**
 
 ---
 
@@ -599,5 +600,6 @@ Supervisor of undergraduate and taught masters research projects covering: finit
 **Last updated:** February 2026
 
 ---
+
 
 
