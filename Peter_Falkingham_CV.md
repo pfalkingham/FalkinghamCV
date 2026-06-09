@@ -542,7 +542,7 @@ Supervisor of undergraduate and taught masters research projects covering: finit
 - **2020 – 2022** — Consultant for Netflix documentary *Life on Our Planet* [View on Netflix](https://www.netflix.com/gb/title/80213846)
 - **2017** — Consultant for BBC documentary *The Real T. rex*  [BBC Programme Page](https://www.bbc.co.uk/programmes/b09ksl99)
 - **2012** — Scientific consultant for the Palaeontology A16 project, Switzerland (highway construction through dinosaur tracksites)
-- **2010** — Consultant for BBC/National Geographic documentary *Dino Stampede* [BBC](https://www.bbc.co.uk/programmes/b0111627) | [Smithsonian Channel](https://www.smithsonianchannel.com/shows/dino-stampede/0/138526)
+- **2010** — Consultant for BBC/National Geographic documentary *Dino Stampede* [BBC](https://www.bbc.co.uk/programmes/b0111627) and [Smithsonian Channel](https://www.smithsonianchannel.com/shows/dino-stampede/0/138526)
 
 ### Media Appearances
 - **2025** — Presented/Interviewed on BBC Breakfast, BBC Radio (Scotland, 5, and local stations), New Zealand TV, and RTL (Holland) regarding dinosaur track discoveries in Oxfordshire. Also featured on Have I Got News For You (BBC).
