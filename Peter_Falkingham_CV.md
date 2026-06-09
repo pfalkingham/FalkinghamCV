@@ -143,7 +143,7 @@ PI: M. Bennett (Bournemouth University)
 *Key publications marked with* ⭐
 
 ### **2026**
- - Lowes, R.J., Jannel, A., Griffin, B.W., Prescott, T.L. and **Falkingham, P.L.**, Digital range of motion analysis is sensitive to subjective steps in joint model construction. Journal of anatomy.
+ - Lowes, R.J., Jannel, A., Griffin, B.W., Prescott, T.L. and **Falkingham, P.L.**, 2026. Digital range of motion analysis is sensitive to subjective steps in joint model construction. Journal of anatomy.
  - Prescott, T.L., Griffin, B.W., Jannel, A. and **Falkingham, P.L.**, 2026. Micro-CT Scanning Tracks: A Means for Non-Destructively Exploring Volumetric Track Formation. Fossil Studies, 4(2), p.14. 
  - Griffin, B.W., Prescott, T.L., Jannel A., and **Falkingham, P.L.** 2026. Penetrative track morphology and sediment parameters: subsurface layers are robust to changes in substrate properties. **Journal of the Royal Society Interface** 23, 20250796.
  - **Falkingham, P.L.** and Gatesy, S.M. 2026. Formation, preservation, and interpretation of dinosaur tracks. *Palaeontology*, 69(1), e70040.
