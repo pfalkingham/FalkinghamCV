@@ -297,6 +297,11 @@ PI: M. Bennett (Bournemouth University)
 *Invited/Symposium presentations marked with* ☆
 
 ### **2026**
+- ☆ **Falkingham, P.L.** and Lowes, R.J. Blender XROMM Toolkit. Society of Experimental Biology Annual Meeting, Florence, Italy
+- Lowes, R.J., Jannel, A., Griffin, B.W., Prescott, T.L. and **Falkingham, P.L.** Digital range of motion analysis is sensitive to 
+subjective steps in joint model construction. Society of Experimental Biology Annual Meeting, Florence, Italy
+- Griffin, B.W., Prescott, T.L, Jannel, A. and **Falkingham, P.L.** Outer toe curvature in tridactyl tracks is caused by specific toe movements in penetrative tracks. Society of Experimental Biology Annual Meeting, Florence, Italy
+- Jannel, A., Griffin, B.W., Prescott, T.L, Lowes, R.J., and **Falkingham, P.L.** Articulating the Past: An integrated workflow for quantitative joint mobility analysis in extant and extinct vertebrates. Society of Experimental Biology Annual Meeting, Florence, Italy
 - Farlow, J.O., Dattilo, B.F., Lin, D., Fredrick, G., Mann, E., Whitcraft, J., **Falkingham, P.L.,** Hyatt, J.A., Jacene, J., Martin, A.J., and O'Brien, M. Dinosaurs vs. Crustaceans: Preservation of Fossil Footprints from Joanna’s Tracksite (Lower Cretaceous Glen Rose Formation, Texas). Indiana Acadamy of Science Annual Meeting, Indiana, USA.
 
 ### **2025**
