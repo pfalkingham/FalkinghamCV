@@ -143,9 +143,10 @@ PI: M. Bennett (Bournemouth University)
 *Key publications marked with* ⭐
 
 ### **2026**
- - Lowes, R.J., Jannel, A., Griffin, B.W., Prescott, T.L. and **Falkingham, P.L.**, 2026. Digital range of motion analysis is sensitive to subjective steps in joint model construction. Journal of anatomy.
- - Prescott, T.L., Griffin, B.W., Jannel, A. and **Falkingham, P.L.**, 2026. Micro-CT Scanning Tracks: A Means for Non-Destructively Exploring Volumetric Track Formation. Fossil Studies, 4(2), p.14. 
- - Griffin, B.W., Prescott, T.L., Jannel A., and **Falkingham, P.L.** 2026. Penetrative track morphology and sediment parameters: subsurface layers are robust to changes in substrate properties. **Journal of the Royal Society Interface** 23, 20250796.
+ - **Falkingham, P.L.**, Hups, K.M., Tamez-Galvan, E.M., Bercovici, A.D. and Lyson, T.R., 2026. A large tridactyl trackway from the Upper Cretaceous Hell Creek Formation of North Dakota, likely attributable to an adult *Tyrannosaurus rex*. *Journal of Vertebrate Paleontology*, p.e2706201.
+ - Lowes, R.J., Jannel, A., Griffin, B.W., Prescott, T.L. and **Falkingham, P.L.**, 2026. Digital range of motion analysis is sensitive to subjective steps in joint model construction. *Journal of anatomy*.
+ - Prescott, T.L., Griffin, B.W., Jannel, A. and **Falkingham, P.L.**, 2026. Micro-CT Scanning Tracks: A Means for Non-Destructively Exploring Volumetric Track Formation. *Fossil Studies*, 4(2), p.14. 
+ - Griffin, B.W., Prescott, T.L., Jannel A., and **Falkingham, P.L.** 2026. Penetrative track morphology and sediment parameters: subsurface layers are robust to changes in substrate properties. *Journal of the Royal Society Interface* 23, 20250796.
  - **Falkingham, P.L.** and Gatesy, S.M. 2026. Formation, preservation, and interpretation of dinosaur tracks. *Palaeontology*, 69(1), e70040.
  - Lallensack, J.N., Pérez-Lorente, F., Amzil, M., Oukassou, M., Meyer, C., Saber, H., Klein, H., Charriére, A., Zafaty, O., and **Falkingham, P.L.** 2026. The abundance and diversity of penetrative tracks: a critical re-evaluation of theropod ichnotaxa. *Historical Biology*, 1–19.
 
@@ -297,6 +298,7 @@ PI: M. Bennett (Bournemouth University)
 *Invited/Symposium presentations marked with* ☆
 
 ### **2026**
+- ☆ **Falkingham, P.L.** and Prescott, N.P. Dinosaur tracks from the inside out. Bruker XRM user meeting, Cambridge, UK.
 - ☆ **Falkingham, P.L.** and Lowes, R.J. Blender XROMM Toolkit. Society of Experimental Biology Annual Meeting, Florence, Italy
 - Lowes, R.J., Jannel, A., Griffin, B.W., Prescott, T.L. and **Falkingham, P.L.** Digital range of motion analysis is sensitive to 
 subjective steps in joint model construction. Society of Experimental Biology Annual Meeting, Florence, Italy
